@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/11f40396-6538-48a5-8f11-814caf565cfb
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
 
-The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+The data is from [Luke Barousse's Excel course](https://github.com/lukebarousse/Excel_Data_Analytics_Course), which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
 My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
@@ -21,19 +21,18 @@ My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
 
 The following Excel skills were utilized for analysis:
 
-- **📉 Charts**
-- **🧮 Formulas and Functions**
-- **❎ Data Validation**
+- **📉 Charts**
+- **🧮 Formulas and Functions**
+- **❎ Data Validation**
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
+The dataset used for this project contains real-world data science job information from 2023. The dataset is available via Luke Barousse's Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
 - **📍 Locations**
 - **🛠️ Skills**
-
 ## Dashboard Build
 
 ### 📉 Charts
